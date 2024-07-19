@@ -31,9 +31,9 @@ Future improvements could include:
 - Hyperparameter tuning to enhance prediction accuracy.
 
 ## Files in Repository
-- **project.pdf:** Detailed project report.
-- **6_voting.tab:** Dataset used for the analysis.
-- **A-6 1.ows:** Workflow file for Orange data mining tool.
+- **Project Document:** Detailed project report.
+- **Project_dataset.tab:** Dataset used for the analysis.
+- **Project.ows:** Workflow file for Orange data mining tool.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
